@@ -1,0 +1,7 @@
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.csprojAssemblyReference.cache
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.AssemblyInfoInputs.cache
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.AssemblyInfo.cs
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.csproj.CoreCompileInputs.cache
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.RazorAssemblyInfo.cache
+C:\Users\beafe\source\repos\CursoMVC1\CursoMVC1\obj\Debug\netcoreapp3.1\CursoMVC1.RazorAssemblyInfo.cs
